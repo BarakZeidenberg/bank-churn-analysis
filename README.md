@@ -17,11 +17,11 @@ The goal: identify which customers are most likely to leave, and why.
 - Inactive members churn at **26.9%** vs **14.3%** for active members
 
 ## Highest Risk Segment 🚨
-**Female customers, aged 36–60, located in Germany**  
-→ Churn rate: **48%** — more than double the overall average
-
 **Female customers, aged 36–60, with non-zero balance**
- Churn rate: **39.3%** — nearly double the overall average 
+→ Churn rate: **39.3%** — nearly double the overall average (1,629 customers)
+
+**Female customers, aged 36–60, located in Germany**
+→ Churn rate: **48%** — more than double the overall average (715 customers)
 
 
 ## Dashboards
