@@ -27,6 +27,8 @@ The goal: identify which customers are most likely to leave, and why.
 
 ![Dashboard 2](Dashboard2.png)
 
+- Customers with 3-4 products show extremely high churn rates (82.7% and 100%).
+- Note: both groups are small — 266 and 60 customers respectively — insufficient to draw firm conclusions.
 
 ## Files
 | File | Description |
