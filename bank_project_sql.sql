@@ -76,9 +76,9 @@ ORDER BY NumOfProducts;
 -- Customers with 1 product churn the most — likely basic account holders who weren't approved for additional products.
 -- Customers with 2 products are the most loyal — they have what they need.
 -- Customers with 3-4 products show extremely high churn rates (82.7% and 100%).
---   both groups are small — 266 and 60 customers respectively — insufficient to draw firm conclusions.
---  matching each customer to the right number of products is critical.
---  Overloading customers with unnecessary products appears to drive them away.
+-- both groups are small — 266 and 60 customers respectively — insufficient to draw firm conclusions.
+-- matching each customer to the right number of products is critical.
+-- Overloading customers with unnecessary products appears to drive them away.
 
 
 
