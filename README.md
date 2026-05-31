@@ -21,7 +21,7 @@ The goal: identify which customers are most likely to leave, and why.
 → Churn rate: **48%** — more than double the overall average
 
 **Female customers, aged 36–60, with non-zero balance**
-→ Churn rate: **39.3%** — nearly double the overall average (1,629 customers)
+ Churn rate: **39.3%** — nearly double the overall average 
 
 
 ## Dashboards
